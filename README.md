@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-I'm a Software Engineer and a student of [University Of Lagos, Nigeria](unilag.edu.ng) **Bsc. Mechanical Engineering**. I'm passionate about sharing knowledge, documentation, web engineering, software application, mechatronics and others.
+I'm a student of [University Of Lagos, Nigeria](unilag.edu.ng) **Bsc. Mechanical Engineering**. I'm passionate about sharing knowledge, documentation, web engineering, software application, mechatronics and others.
 
 **Here's a quick summary about me**:
 
