@@ -1,15 +1,24 @@
-# Hello there; welcome 👋🏾
+# Hello there; welcome 👋
 
-I'm a student of [University Of Lagos, Nigeria](unilag.edu.ng) **Bsc. Mechanical Engineering**. I'm passionate about sharing knowledge, documentation, web engineering, software application, mechatronics and others.
+I'm a **Backend Engineering** enthusiast and a **Mechanical Engineering student** at the [University of Lagos](https://unilag.edu.ng/). I combine engineering precision with software development to build scalable web applications.
 
-**Here's a quick summary about me**:
+### 🚀 About Me
+* **Core Stack:** I specialize in building **RESTful APIs** using **Node.js, Express, and TypeScript**.
+* **Database Management:** Experienced with **PostgreSQL**.
+* **Background:** Alumnus of **ALX** (Cohort 7) and **AltSchool Africa** (School of Software Engineering).
 
-- 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at:
-     * AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-     * ALX [School of Software Engineering](www.alxafrica.com/software-engineering-2022) Cohort 7.
-     * I am a fan of Chelsea Football Club 💙
-- 🌱 I’m currently learning C and Python
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing @idowudavidodun@gmail.com
+### 🛠 Tech Stack & Tools
+* **Languages:** JavaScript (ES6+), TypeScript, SQL.
+* **Backend:** Node.js, Express.js, NestJS.
+* **Databases:** MongoDB, PostgreSQL.
+* **Tools:** Git, GitHub, Postman, Render.
+* **Frontend familiarity:** React, Tailwind CSS.
+
+### 🌱 Current Status
+* 🔭 I’m currently working on a **Desk Occupancy Booking API** using Node.js and PostgreSQL.
+* 👯 I’m looking for **Backend Engineering Internships** (Open to Remote/Hybrid).
+* ⚡ **Fun fact:** When I'm not debugging code or studying fluid dynamics, I'm exploring **Music Production** and men's fashion.
+
+### 📫 Connect with me
+* **Email:** [idowudavidodun@gmail.com](mailto:idowudavidodun@gmail.com)
+* **Resume:** [View my Resume](#) *(Add your resume link here later)*
