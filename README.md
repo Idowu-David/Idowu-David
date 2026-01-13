@@ -15,10 +15,8 @@ I'm a **Backend Engineering** enthusiast and a **Mechanical Engineering student*
 * **Frontend familiarity:** React, Tailwind CSS.
 
 ### 🌱 Current Status
-* 🔭 I’m currently working on a **Desk Occupancy Booking API** using Node.js and PostgreSQL.
 * 👯 I’m looking for **Backend Engineering Internships** (Open to Remote/Hybrid).
-* ⚡ **Fun fact:** When I'm not debugging code or studying fluid dynamics, I'm exploring **Music Production** and men's fashion.
 
 ### 📫 Connect with me
 * **Email:** [idowudavidodun@gmail.com](mailto:idowudavidodun@gmail.com)
-* **Resume:** [View my Resume](#) *(Add your resume link here later)*
+* **Resume:** [View my Resume](#)
