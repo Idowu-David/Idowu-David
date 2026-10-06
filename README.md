@@ -68,7 +68,7 @@ I'm a **Backend Engineering** enthusiast and a **Mechanical Engineering student*
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idowu-David&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
 
 </div>
 
@@ -85,7 +85,6 @@ I'm a **Backend Engineering** enthusiast and a **Mechanical Engineering student*
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-idowudavidodun@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idowudavidodun@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-2c5364?style=for-the-badge&logo=readme&logoColor=white)](#)
 
 </div>
 
