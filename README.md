@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hello%20there%2C%20welcome%20%F0%9F%91%8B&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Mechanical%20Engineering%20Student&descAlignY=60&descSize=18" alt="header" width="100%"/>
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/Idowu-David">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=520&lines=Building+scalable+RESTful+APIs;Node.js+%7C+Express+%7C+TypeScript+%7C+PostgreSQL;Engineering+precision+meets+software" alt="Typing SVG" />
 </a>
 
@@ -67,7 +67,7 @@ I'm a **Backend Engineering** enthusiast and a **Mechanical Engineering student*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Idowu-David&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idowu-David&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
 
 </div>
